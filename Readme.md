@@ -1,6 +1,6 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
-* Студент: [Игорь Орищенко](https://up.htmlacademy.ru/javascript/19/user/1076505).
+* Студент: `Неизвестно`.
 * Наставник: `Неизвестно`.
 
 ---
